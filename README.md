@@ -18,7 +18,8 @@ The goal of this project is to **process a video**, extract its **frames**, and 
 📌 **Goal:** Use a **Multimodal LLM (Visual-Text Model)** to identify specific objects, features, or generate descriptions from each frame.  
 📌 **Local Approach (Python + Pretrained Models):**
 - Utilize **multimodal models** like **CLIP**, **Flamingo**, or **VisualBERT** to generate text-based descriptions from the images (frames).
-- These models are designed to link visual and textual data, allowing the system to identify objects or generate descriptions of scenes based on the input image.  
+- These models are designed to link visual and textual data, allowing the system to identify objects or generate descriptions of scenes based on the input image.
+  
 📌 **Quantum Benefit:**
 - **Quantum Machine Learning (QML)** can be leveraged to enhance the object detection process. For instance, **Quantum Convolutional Neural Networks (QCNNs)** can be used for feature extraction, allowing the quantum computer to better explore feature spaces and improve object detection.
 - Quantum-enhanced models can increase processing speed or improve accuracy in visual-text understanding, making the task of extracting meaningful features from images more efficient.
