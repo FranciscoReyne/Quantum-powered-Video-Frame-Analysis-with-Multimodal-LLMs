@@ -9,7 +9,8 @@ The goal of this project is to **process a video**, extract its **frames**, and 
 📌 **Goal:** Extract frames from a video for further analysis.  
 📌 **Local Approach (Python + OpenCV):**
 - Use libraries such as **OpenCV** or **FFmpeg** to extract frames from the video.  
-- Preprocess the frames (e.g., resizing, normalization) to make them ready for the analysis step.  
+- Preprocess the frames (e.g., resizing, normalization) to make them ready for the analysis step.
+  
 📌 **Quantum Benefit (Optional):**  
 - **Quantum Image Processing:** Quantum computing can be used after the frame extraction to enhance preprocessing tasks, such as denoising, filtering, or enhancing certain features of the image before passing them to the model. This may provide more accurate data for object detection.
 
